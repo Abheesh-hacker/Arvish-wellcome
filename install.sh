@@ -25,5 +25,5 @@ echo "Done By @arvish" |lolcat
 echo "========================="
 echo "Restart Your Termux App" |lolcat
 echo "========================="
-print("jaaaaaadu")
+echo "jaaaaadu"
 exit
