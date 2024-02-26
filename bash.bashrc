@@ -4,7 +4,7 @@ command_not_found_handle() {
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
 
-mpv /$HOME/Arvish-wellcome/terminal.mp3
+print ("mpv /$HOME/Arvish-wellcome/terminal.mp3")
 clear
 cd Arvish-wellcome
 mpv terminal.mp3
