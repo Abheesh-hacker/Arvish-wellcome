@@ -7,9 +7,9 @@ mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
 echo -e "Created By ARVISH" | lolcat
 echo "----------------------------" | lolcat
-echo "BY ITZ_ARVISH_0_04 " | lolcat
+echo "BY ITZ_ARVISH_0_0_4 " | lolcat
 figlet -c Welcome  
 date | lolcat
-echo -e "YOUTUBE CHANNEL  : \n HACKERS NEVER DIE | lolcat
+echo -e " \n HACKERS NEVER DIE | lolcat
 echo "-----------------------------------" | lolcat
-echo "Follow Me On Instagram :ITZ_ARVISH_0_04" | lolcat
+echo "Follow Me On Instagram :ITZ_ARVISH_0_0_4" | lolcat
