@@ -3,7 +3,7 @@ echo ""
 echo ""
 echo "Installing Packages"
 echo "==================="
-echo "By @itz_arvish_0_04"
+echo "By @itz_arvish_0_0_4"
 echo "==================="
 echo ""
 apt update
