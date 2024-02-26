@@ -1,4 +1,4 @@
-# TERMUX-WELCOME PROJECT BY ARVISH 
+# Arvish-WELCOME PROJECT BY ARVISH 
 ### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
@@ -9,9 +9,8 @@ apt install git -y
 
 pkg install mpv -y
 
-git clone https://github.com/itzr00tbyte/TERMUX-WELCOME
-
-cd TERMUX-WELCOME
+git clone https://github.com/Abheesh-hacker/Arvish-wellcome
+cd Arvish-wellcome
 
 chmod +x *
 
@@ -22,7 +21,7 @@ exit
 
 ## [+]How to remove 
 ```
-cd TERMUX-WELCOME
+cd Arvish-wellcome
 
 bash rvt.sh
 ```
