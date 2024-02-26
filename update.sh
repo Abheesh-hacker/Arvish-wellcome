@@ -15,9 +15,9 @@ clear
 printf "\n \e[1;92mUpdating \e[1;94mTERMUX-WELCOME\e[1;92m ...\n\n"
 sleep 1.5
 cd ..
-rm -rf TERMUX-WELCOME
-git clone https://github.com/Abheesh-hacker/Arvish-wellcome/
-cd TERMUX-WELCOME
+rm -rf Arvish-WELCOME
+git clone https://github.com/Abheesh-hacker/Arvish-wellcome
+cd Arvish-WELCOME
 printf "\n\e[1;92mRestarting ...\n\e[0m"
 bash install.sh
 clear
