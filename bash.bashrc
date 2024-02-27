@@ -5,6 +5,8 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 cd Arvish-wellcome
 mpv terminal.mp3
+cd
+
 clear
 welcome arvish to termux
 
@@ -17,5 +19,4 @@ echo "BY ITZ_ARVISH_0_0_4 " | lolcat
 figlet -c Welcome  
 date | lolcat
 echo -e " \n HACKERS NEVER DIE | lolcat
-echo "-----------------------------------" | lolcat
 echo "Follow Me On Instagram :ITZ_ARVISH_0_0_4" | lolcat
