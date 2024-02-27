@@ -11,7 +11,7 @@ welcome arvish to termux
 
 
 clear
-
+cd
 echo -e "Created By ARVISH" | lolcat
 echo "----------------------------" | lolcat
 echo "BY ITZ_ARVISH_0_0_4 " | lolcat
