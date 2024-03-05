@@ -12,7 +12,7 @@ apt upgrade
 pip install lolcat
 pkg install mpv -y
 pkg install figlet -y
-cp bash.bashrc $PREFIX/etc
+cp AA.AR $PREFIX/etc
 clear
 echo ""
 echo ""
