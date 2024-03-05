@@ -19,3 +19,41 @@ figlet -c Welcome
 date | lolcat
 echo -e " \n HACKERS NEVER DIE | lolcat
 echo "Follow Me On Instagram :ITZ_ARVISH_0_0_4" | lolcat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
