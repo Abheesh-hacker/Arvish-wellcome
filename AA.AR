@@ -54,5 +54,11 @@ echo -e " \n HACKERS NEVER DIE | lolcat
 
 
 
-
-clear
+python3
+a = input("enter your first number")
+b = input("enter your second number")
+c = input("what you want to do")
+if c == "+":
+  print(int(a)+int(b))
+if c == "-":
+  print(int(a)-int(b))
